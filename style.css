@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+body{
+    font-family: 'Nunito';
+}
+.section1{
+    width: 100%;
+    height: fit-content;
+    background-color: red;
+    justify-content: center;
+
+}
+#id{
+    font-size: 10px;
+}
+img{
+    padding: 10px;
+    width: 100px;
+}
+
+.navbar ul{
+    display:flex;
+
+}
+.navbar .menuItems{
+    list-style: none;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 17px;
+}
+.menulink{
+    text-decoration: none;
+    color: white;
+}
