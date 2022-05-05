@@ -1,0 +1,154 @@
+*{
+    margin: 0px;
+    width: 100%;
+}
+
+.maincontainer{
+    display: flex;
+    
+    width: 100%;
+    
+}
+
+.maincontainer:hover{
+    box-shadow: 3px 3px 5px 0.5;
+}
+#cursor{
+    cursor: pointer;
+}
+
+
+fieldset{
+    padding: 15px;
+    border-top: 15px solid red;
+    border-bottom: 15px solid red;
+    border-right: 15px solid red;
+    border-left: 15px solid white;
+    border-radius: 25px;
+    height: 450px;
+    width: 50%;
+
+}
+legend{
+    background-color: white;
+    color: red;
+    width: fit-content;
+    font-size: 40px;
+    font-weight: 700px;
+}
+.subcontainer1{
+margin-top: 0%;
+}
+
+.subcontainer2{
+   display: flex;
+   width:50%;
+   flex-wrap: wrap;
+   margin-top: 15px;
+   
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: rgb(209, 6, 10);
+    
+    
+}
+.heading{
+    color: rgb(209, 6, 10); 
+}
+
+
+
+.container2a{
+    width: 40%;
+    padding-left: 40px;
+    padding-right: 0px;
+    padding-bottom: 1px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid gray;
+    border-right: 2px solid gray;
+    border-radius: 10px;
+    
+    
+}
+#image2{
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 5px;
+    
+    
+}
+.container2b{
+    width: 40%;
+    padding-left: 40px;
+    padding-right: 0px;
+    padding-bottom: 1px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid gray;
+    border-right: 2px solid gray;
+    border-radius: 10px;
+    
+    
+}
+#image3{
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 5px;
+    
+    
+}
+.container2c{
+    width: 40%;
+    padding-left: 40px;
+    padding-right: 0px;
+    padding-bottom: 1px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid gray;
+    border-right: 2px solid gray;
+    border-radius: 10px;
+    
+    
+}
+#image4{
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 5px;
+   
+}
+.container2d{
+    width: 40%;
+    padding-left: 40px;
+    padding-right: 0px;
+    padding-bottom: 1px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid gray;
+    border-right: 2px solid gray;
+    border-radius: 10px;
+    
+    
+}
+#image5{
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+    padding-top: 5px;
+    
+    
+}
+#button1{
+    width: 200px;
+    padding: auto;
+    font-size: 15px;
+    background-color: rgb(209, 6, 10); 
+    color: white;
+    border: 2px solid gray;
+    
+    
+}
